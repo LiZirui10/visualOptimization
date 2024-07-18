@@ -1,0 +1,15 @@
+Package: visualOptimization
+Type: Package
+Title: Visualize Classical Root-finding Algorithm for Optimization
+Version: 0.1.0
+Author: Zirui Li
+Maintainer: Zirui Li <luiselzr104566@gmail.com>
+Description: In numeric optimization task, it is crutial to find roots for the first derivative of given function. 
+    This package visualizes the root finding process of Newton-Raphson method and Secant method to 
+    help the beginners understand how these algorithms work.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
+Imports: 
+    ggplot2
